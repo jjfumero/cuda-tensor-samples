@@ -4,7 +4,7 @@ This test is based on the NVIDIA sample suite for tensors:
 - https://github.com/NVIDIA-developer-blog/code-samples/tree/master/posts/tensor-cores.
 - https://github.com/NVIDIA/cuda-samples/blob/master/cpp/3_CUDA_Features/cudaTensorCoreGemm/cudaTensorCoreGemm.cu
 
-This test is used to compared the generated CUDA code from [HAT](https://github.com/openjdk/babylon/tree/code-reflection/hat), 
+This test is used to compare the generated CUDA code from [HAT](https://github.com/openjdk/babylon/tree/code-reflection/hat), 
 a Java parellel programming framwork to exploit data parallel applications on hardware accelerators, against CUDA native implementations.
 
 ### How to build and run?

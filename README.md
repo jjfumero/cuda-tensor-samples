@@ -38,3 +38,15 @@ This code was written as a demo only!
 cuda took 1.703040ms
 ```
 
+
+#### Options
+
+- `-i`: Define the number of iterations. 10 by default.
+- `-s`: Define the size of the input matrix (Size x Size). Default is 1024.
+
+
+Example:
+
+```bash
+./tensorsExample -i 1 -s 4096
+```
